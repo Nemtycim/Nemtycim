@@ -1,2 +1,5 @@
 
-<img src="https://luppufy.onrender.com/member/952214954931544164">
+<center>
+<img src="https://luppufy.onrender.com/member/952214954931544164">  
+</center>
+
