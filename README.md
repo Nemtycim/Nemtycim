@@ -12,7 +12,7 @@
 </p>
  </h2>
 
-<center>
-<img src="https://count.getloli.com/get/@:Nemtycim?theme=asoul" style="max-width: 100%;" />
-</center>
+<p align= "center"><img src="https://count.getloli.com/get/@:Nemtycim?theme=asoul" style="max-width: 100%;" />
+</p>
+
 
