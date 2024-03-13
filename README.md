@@ -14,7 +14,5 @@
 
 <center>
 <img src="https://count.getloli.com/get/@:Nemtycim?theme=asoul" style="max-width: 100%;" />
-
- 
- ![](https://komarev.com/ghpvc/?username=Nemtycim&color=yellow)</center>
+</center>
 
