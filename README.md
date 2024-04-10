@@ -1,6 +1,6 @@
 <h1 align= "center"> Merhaba! Github Sayfama Hoşgeldin. </h1>
 
-<h4 align="center" class="heading-element" dir="auto">Merhaba! Ben Yiğit, back-end geliştirme konusunda ortalama düzeyde uzmanlığa sahip bir geliştiriciyim.</h4>
+<h4 align="center" class="heading-element" dir="auto">Merhaba! Ben Yiğit, back-end geliştirme konusunda ortalama düzeyde olan bir geliştiriciyim.</h4>
 
 <h1 align= "center">🚀 Kullandığım Diller</h1>
 
