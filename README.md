@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yigit</h2>
+<h2 align="center">Hi 👋! My name is Yigit</h2>
 
 <div align="center">
 <b><i>I am a self-taught and passionate developer with intermediate knowledge in back-end development and beginner-level knowledge in front-end technologies. My programming journey has been shaped by curiosity and a constant desire to learn, which motivates me to explore new tools, frameworks, and techniques.
