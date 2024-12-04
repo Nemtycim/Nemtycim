@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! My name is Yigit</h2>
 
 <div align="center">
-***I am a self-taught and passionate developer with intermediate knowledge in back-end development and beginner-level knowledge in front-end technologies. My programming journey has been shaped by curiosity and a constant desire to learn, which motivates me to explore new tools, frameworks, and techniques.
+*I am a self-taught and passionate developer with intermediate knowledge in back-end development and beginner-level knowledge in front-end technologies. My programming journey has been shaped by curiosity and a constant desire to learn, which motivates me to explore new tools, frameworks, and techniques.
 
-I enjoy solving complex problems, learning from challenges, and bringing ideas to life through code. While I am in the process of improving my front-end skills, I strive to create effective and intuitive applications by combining functionality with user-friendly design.***
+I enjoy solving complex problems, learning from challenges, and bringing ideas to life through code. While I am in the process of improving my front-end skills, I strive to create effective and intuitive applications by combining functionality with user-friendly design.*
 </div>
 
 <div align="center">
