@@ -18,7 +18,7 @@ I enjoy solving complex problems, learning from challenges, and bringing ideas t
 
 
 <div align="center">
-  <b>🚀 Languages I Use</b> <br>
+  <b align="center">🚀 Languages I Use</b> <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -36,7 +36,7 @@ I enjoy solving complex problems, learning from challenges, and bringing ideas t
 <br>
 
 <div align="center">
-  <b> 💎 My Social Media  </b>
+   <b align="center"> 💎 My Social Media  </b> <br>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
