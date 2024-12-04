@@ -40,8 +40,7 @@ I enjoy solving complex problems, learning from challenges, and bringing ideas t
 <div align="center">
 <b align= "center">💎 My Social Media</b> <br><br>
    <a href= "https://www.instagram.com/nemtycim/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1B1833&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1B1833&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-
+  <a href= "https://discord.com/users/952214954931544164"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1B1833&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 </div>
 <br clear="both">
 
