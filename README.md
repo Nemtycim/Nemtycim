@@ -1,21 +1,46 @@
-<h1 align= "center"> Merhaba! Github Sayfama Hoşgeldin. </h1>
+<h2 align="left">Hi 👋! My name is Yigit</h2>
 
-<h4 align="center" class="heading-element" dir="auto">Merhaba! Ben Yiğit, back-end geliştirme konusunda ortalama düzeyde olan bir geliştiriciyim.</h4>
+<div align="center">
+*I am a self-taught and passionate developer with intermediate knowledge in back-end development and beginner-level knowledge in front-end technologies. My programming journey has been shaped by curiosity and a constant desire to learn, which motivates me to explore new tools, frameworks, and techniques.
 
-<h1 align= "center">🚀 Kullandığım Diller</h1>
+I enjoy solving complex problems, learning from challenges, and bringing ideas to life through code. While I am in the process of improving my front-end skills, I strive to create effective and intuitive applications by combining functionality with user-friendly design.*
+</div>
 
-<p align="center" dir="auto">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nemtycim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nemtycim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-</p>
- </h2>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nemtycim.Nemtycim&"  />
+</div>
 
-<p align= "center"><img src="https://count.getloli.com/get/@:Nemtycim?theme=asoul" style="max-width: 100%;" />
-</p>
 
-<h2 align= "center">Discord Hesabım</h2>
+<h1 align= "center">🚀 Languages I Use</h1>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-<p align= "center"><img width="400px" src="https://camo.githubusercontent.com/39616dbb5cc07c4505f5463996f1714c5a2c4f67ba51a812838a3205b3baaf38/68747470733a2f2f6c616e796172642e6b7972696532352e6d652f6170692f3935323231343935343933313534343136343f6465636f726174696f6e3d7472756526757365446973706c61794e616d653d7472756526616e696d6174696f6e4475726174696f6e3d32732677617665436f6c6f723d30353342353026696d675374796c653d73717561726526696d67426f726465725261646975733d313670782662673d44443237323730302669646c654d6573736167653dc4b0736d65742b50617368616d2b77686572652b69732b69736c616e6473" data-canonical-src="https://lanyard.kyrie25.me/api/952214954931544164?decoration=true&amp;useDisplayName=false&amp;animationDuration=2s&amp;waveColor=225f8a&amp;imgStyle=square&amp;imgBorderRadius=20px&amp;bg=225f8a&amp;idleMessage=" style="max-width: 100%;"></p>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+
+<br clear="both">
+
+
 
