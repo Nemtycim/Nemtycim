@@ -17,8 +17,9 @@ I enjoy solving complex problems, learning from challenges, and bringing ideas t
 
 
 
-<b align= "center">🚀 Languages I Use</b> <br><br>
+
 <div align="center">
+  <b align= "center">🚀 Languages I Use</b> <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
