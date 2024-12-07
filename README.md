@@ -19,7 +19,7 @@ I enjoy solving complex problems, learning from challenges, and bringing ideas t
 
 
 <div align="center">
-  <b align= "center">🚀 Languages I Use</b> <br><br>
+  <b align= "center">🚀 I Use</b> <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -33,6 +33,7 @@ I enjoy solving complex problems, learning from challenges, and bringing ideas t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="boostrap logo"  />
 </div>
 
 
