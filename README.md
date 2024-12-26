@@ -16,9 +16,6 @@ I enjoy solving complex problems, learning from challenges, and bringing ideas t
 </div>
 
 
-![Nemtycim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nemtycim&show_icons=true&theme=dracula)
-
-
 <div align="center">
   <b align= "center">🚀 Languages I Use</b> <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
